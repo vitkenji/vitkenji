@@ -1,6 +1,8 @@
-<p align="center">
- Hi! I'm Vitor Kenji! I'm currently a computer enginnering student at UTFPR.<br/> 
-</p>&nbsp;
+## About Me:
+
+- Computer Engineering Student.
+- Web development intern.
+- 20 years old.
 
 #### Technical Skills:
 
@@ -25,8 +27,6 @@
 
 ![SQLServer](	https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![MySql](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Operating Systems:
 
