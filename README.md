@@ -2,7 +2,6 @@
 - Hi! I'm Vitor Kenji.
 - Computer Engineering Student.
 - Web development intern.
-- 20 years old.
 
 #### Technical Skills:
 
