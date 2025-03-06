@@ -1,7 +1,6 @@
 ## About Me:
 - Hi! I'm Vitor Kenji.
-- Computer Engineering Student.
-- Web development intern.
+- Computer Engineering Student
 
 #### Technical Skills:
 
